@@ -1,2 +1,1 @@
-# .github
-Internal GitHub data
+## The `spatstat` family 
