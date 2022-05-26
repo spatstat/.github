@@ -3,7 +3,7 @@
 Here you can find all the repositories maintained by the `spatstat` team:
 
 - the `spatstat` family of packages
-- material for short courses on analysing spatial point patterns.
+- material for short courses on analysing spatial point patterns
 
 For an overview of the `spatstat` family, see [spatstat/spatstat](https://github.com/spatstat/spatstat).
 
